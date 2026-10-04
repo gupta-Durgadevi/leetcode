@@ -5,4 +5,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/gupta-Durgadevi/leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0595-big-countries](https://github.com/gupta-Durgadevi/leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
