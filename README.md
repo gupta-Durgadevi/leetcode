@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/gupta-Durgadevi/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/gupta-Durgadevi/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0268-missing-number](https://github.com/gupta-Durgadevi/leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/gupta-Durgadevi/leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/gupta-Durgadevi/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/gupta-Durgadevi/leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
 |  |
 | ------- |
