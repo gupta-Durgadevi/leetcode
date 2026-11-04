@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/gupta-Durgadevi/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/gupta-Durgadevi/leetcode/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/gupta-Durgadevi/leetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/gupta-Durgadevi/leetcode/tree/master/0506-relative-ranks) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/gupta-Durgadevi/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gupta-Durgadevi/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/gupta-Durgadevi/leetcode/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/gupta-Durgadevi/leetcode/tree/master/0506-relative-ranks) |
 ## Design
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/gupta-Durgadevi/leetcode/tree/master/0500-keyboard-row) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/gupta-Durgadevi/leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
